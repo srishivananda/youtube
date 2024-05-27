@@ -7,7 +7,7 @@ This repository contains various scripts for automating tasks related to YouTube
 
 - **youtubeutils.py**: Contains utility functions used across the different scripts.
 - **youtube-playlist-update.py**: This script updates the details of the videos in a playlist.
-- **youtube-playlist-cleanup.py**: This script helps in removing unwanted videos from a specified YouTube playlist.
+- **youtube-playlist-cleanup.py**: This script helps in removing unwanted videos from a specified playlist.
 - **youtube-playlist-copy.py**: This script copies videos from one playlist to another.
 
 ## Usage
