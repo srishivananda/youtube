@@ -108,7 +108,7 @@ def playlist(playlist_id):
             pageToken=next_page_token
         )
 
-        # accumulate the playlist items and the next page token
+        # accumulate the playlist items and the next page token 
         response = request.execute()
         items.extend(response['items'])
         next_page_token = response.get("nextPageToken")
